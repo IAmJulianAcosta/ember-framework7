@@ -25,5 +25,6 @@
       </library>
     </orderEntry>
     <orderEntry type="library" name="node_modules ember-framework7" level="project" />
+    <orderEntry type="library" name="bower_components ember-framework7" level="project" />
   </component>
 </module>

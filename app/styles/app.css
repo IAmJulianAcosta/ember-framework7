@@ -1,3 +1,7 @@
 body > div.ember-view {
 	height: 100%;
 }
+
+#f7-application {
+	height: 100%;
+}

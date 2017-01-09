@@ -8,11 +8,11 @@ module.exports = function(defaults) {
   });
   
   app.import ('bower_components/Framework7/dist/js/framework7.js');
-//  app.import ('bower_components/Framework7/dist/css/framework7.ios.css');
-//  app.import ('bower_components/Framework7/dist/css/framework7.ios.colors.css');
+  app.import ('bower_components/Framework7/dist/css/framework7.ios.css');
+  app.import ('bower_components/Framework7/dist/css/framework7.ios.colors.css');
 //  app.import ('bower_components/Framework7/dist/css/framework7.ios.rtl.css');
-  app.import ('bower_components/Framework7/dist/css/framework7.material.css');
-  app.import ('bower_components/Framework7/dist/css/framework7.material.colors.css');
+//  app.import ('bower_components/Framework7/dist/css/framework7.material.css');
+//  app.import ('bower_components/Framework7/dist/css/framework7.material.colors.css');
 //  app.import ('bower_components/Framework7/dist/css/framework7.material.rtl.css');
 
   // Use `app.import` to add additional libraries to the generated
